@@ -1,2 +1,2 @@
 # PyLadies-Pune-Site
-pune.pyladies.com
+HTML & CSS code for our website http://pune.pyladies.com/
